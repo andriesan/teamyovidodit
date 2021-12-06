@@ -57,14 +57,14 @@
 
 "UNITY_BANNER" : "banner",
 "UNITY_INTERSTITIAL" : "interstitial",
-"UNITY_GAME_ID" : "1234567",
-"UNITY_TEST_MODE" : "true",
+"UNITY_GAME_ID" : "4490881",
+"UNITY_TEST_MODE" : "false",
 
 "APPLOVIN_BANNER_ID" : "71f5faf4df08917c",
 "APPLOVIN_INTERSTITIAL_ID" : "4711e1718612d7dc",
 
 "Button_Start" : "START",
-"Button_Share" : "SHARE TO FRIEND",
+"Button_Share" : "BAGI Ke TEMAN",
 "Button_Rating" : "RATING NOW",
 
 
