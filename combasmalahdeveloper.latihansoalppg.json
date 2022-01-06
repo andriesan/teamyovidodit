@@ -19,7 +19,7 @@
 // Mode APPLOVIN    Applovin backup Unity Backup Startapp
  // native hanya bisa admob fan appodeal
   
-"PENGATURAN_IKLAN_banner" : "UNITY",
+"PENGATURAN_IKLAN_banner" : "ADMOB",
 "PENGATURAN_IKLAN_inter" : "UNITY",
 "PENGATURAN_IKLAN_native" : "UNITY",
 
@@ -36,9 +36,9 @@
 
 "STARAPPID" : "200977046",
 
-"ADMOB_BANNER" : "ca-app-pub-2314593950848693/9824586142",
-"ADMOB_INTER" : "ca-app-pub-2314593950848693/8511504478",
-"ADMOB_NATIV" : "ca-app-pub-2314593950848693/5885341134",
+"ADMOB_BANNER" : "ca-app-pub-6203136228838189/9944784570",
+"ADMOB_INTER" : "ca-app-pub-6203136228838189/9477880710",
+"ADMOB_NATIV" : "ca-app-pub-6203136228838189/7865416140",
 
 "hpk_alien" : "latihan soal pretest ppg 2022",
 "HPK_ADMOB1" : "bocoran soal ukg ppg 2022",
