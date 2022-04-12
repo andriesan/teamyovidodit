@@ -71,10 +71,10 @@
 "Exit_Popup_Dialog" : "Agar Kami lebih semangat mengembangkan Aplikasi ini \n\n Bantu kami dengan rating bintang 5 ya :)",
 "Rate_Button" : "Rate 5 Stars",
 "Later_Button" : "Rate Later",
-"enable_Share_button" : true,
-"Share_TXT" : "Bank Pretest PPG - Download Now",
+"enable_Share_button" : false,
+"Share_TXT" : "Latihan Soal Pretest PPG - Download Now",
 "More_Button" : "Share Via WhatsApp",
-"Url_More_Apps" : "https:// jika share button TRUE maka tombol MORE berubah SHARE"
+"Url_More_Apps" : "https://play.google.com/store/apps/details?id=com.aradeveloperpro.soalppg"
 
   }
 }
