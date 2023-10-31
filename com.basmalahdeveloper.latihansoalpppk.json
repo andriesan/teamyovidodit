@@ -3,16 +3,16 @@
 
 // untuk merubah menjadi mode mp3 - panggil link ini via offline / json - "file:///android_asset/music/playlist.html"
 // pastikan mode offline mp3 true jika merubah ke mode mp3
-// https://kabinetdeveloperexample.blogspot.com/2020/12/optimasi-blogger.html
+// moving ke yg baru
 
 "HOMEURL" : "https://latihansoalpppk2022.blogspot.com/p/sitemap.html",
 
 // testing server json yang dipakai
 "JSON_POPUP_WAIT" : "Server Soal Ready . . .",
 
-// Redirect ke apps lain 
-"REDIRECT_TRAFFIC" : false,
-"LINK_REDIRECT" : "https://play.google.com/store/apps/developer?id=basmalah",
+// Redirect ke apps lain (pindah ke andri)
+"REDIRECT_TRAFFIC" : true,
+"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.inadev.latihansoalpppk.teknis",
 
 // main ads ke backup ads 
 "MODE_BACKUP_ADS" : true,
